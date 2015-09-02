@@ -9,14 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hapijs/nodevember.git"
+    "url": "https://github.com/VishvajitP/nodevember.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hapijs/nodevember/issues"
   },
-  "homepage": "https://github.com/hapijs/nodevember",
+  "homepage": "https://github.com/VishvajitP/nodevember.git",
   "dependencies": {
+    "good": "^6.3.0",
+    "good-console": "^5.0.3",
+    "hapi": "^9.0.3"
   }
 }
